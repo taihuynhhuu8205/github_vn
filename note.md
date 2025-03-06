@@ -19,3 +19,4 @@ Branch: Cành va canh mat dinh la master
 - git checkout master: De tra lai commit hien tai
 - git branch
 - git checkout -b {branch name}: Them ten branch
+- git checkout {branch name}: De di chuyen qua branch khac
