@@ -16,3 +16,7 @@ Repository (Repo)
 - git checkout: De tra lai commit muon tra ve
     Cu phap: git checkout (id cua commit)
 - git checkout master: De tra lai commit hien tai
+- git branch
+- git checkout -b {branch name}
+- git checkout {branch name}: di chuyen den branch muon su dung
+- git merge {branch name}: Tong hop 2 branch lai voi nhau
