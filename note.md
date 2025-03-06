@@ -22,6 +22,7 @@ Branch: Cành va canh mat dinh la master
 - git checkout -b {branch name}
 - git checkout {branch name}: di chuyen den branch muon su dung
 - git merge {branch name}: Tong hop 2 branch lai voi nhau
+- git branch -d {branch name}: Xoa 1 branch
 =======
     Cu phap: git checkout {id cua commit}
 - git checkout master: De tra lai commit hien tai
