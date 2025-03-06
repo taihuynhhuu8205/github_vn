@@ -2,6 +2,7 @@
 
 Repository (Repo)
 Branch: Cành va canh mat dinh la master
+Conflict
 
 # Commands
 
