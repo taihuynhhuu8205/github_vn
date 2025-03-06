@@ -16,7 +16,7 @@ Conflict
 - git log: Coi nhung thoi diem da luu
 - git log --oneline: Tuong tu 
 - git checkout: De tra lai commit muon tra ve
-<<<<<<< HEAD
+
     Cu phap: git checkout (id cua commit)
 - git checkout master: De tra lai commit hien tai
 - git branch
@@ -24,10 +24,4 @@ Conflict
 - git checkout {branch name}: di chuyen den branch muon su dung
 - git merge {branch name}: Tong hop 2 branch lai voi nhau
 - git branch -d {branch name}: Xoa 1 branch
-=======
-    Cu phap: git checkout {id cua commit}
-- git checkout master: De tra lai commit hien tai
-- git branch
-- git checkout -b {branch name}: Them ten branch
-- git checkout {branch name}: De di chuyen qua branch khac
->>>>>>> dev
+
