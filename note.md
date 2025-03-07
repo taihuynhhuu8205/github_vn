@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch: Cành va canh mat dinh la master
 Conflict
+Local
+Remote
 
 # Commands
 
@@ -24,4 +26,5 @@ Conflict
 - git checkout {branch name}: di chuyen den branch muon su dung
 - git merge {branch name}: Tong hop 2 branch lai voi nhau
 - git branch -d {branch name}: Xoa 1 branch
+- git push
 
